@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400;500;700;800;900&family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800&display=swap');
+
+body {
+	background-color: #474026;
+	color: #F5D9D7;
+	font-family: 'M PLUS 1p', sans-serif;
+	width: 100%;
+}
+
+.navbar {
+	background-color: #C7A1AB;
+}
+
+h1#logo {
+	color: #F5D9D7;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-weight: 400;
+	width: 100%;
+}
+
+h2#hero-header {
+	color: #189cc7;
+	font-family: 'M Plus 1c', sans-serif;
+	font-weight: 700;
+}
+
+hr.line-break {
+	border-top: 1px dotted #FA9137;
+	width: 100%;
+
+}
+
+.token-card,
+.card-header {
+	background-color:  #474026;
+	border: 1px solid #FA9137;
+	min-width: 18rem;
+}
